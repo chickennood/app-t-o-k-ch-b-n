@@ -1,0 +1,5 @@
+{
+  "name": "Trình tạo kịch bản Video Gemini",
+  "description": "Một công cụ hỗ trợ bởi AI để tạo kế hoạch video đa khung hình và nội dung đăng tải cho các nền tảng mạng xã hội khác nhau như TikTok, YouTube Shorts, Reels, v.v. Người dùng nhập chủ đề, chân dung nhân vật và thời lượng, và Gemini sẽ tạo ra một kịch bản video chi tiết, có cấu trúc cùng với nội dung quảng bá.",
+  "requestFramePermissions": []
+}
